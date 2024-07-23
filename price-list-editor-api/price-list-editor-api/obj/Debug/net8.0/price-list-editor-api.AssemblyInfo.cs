@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("price-list-editor-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7217697e63cb9f6629b1b173e8f44dc76aa639a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("price-list-editor-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("price-list-editor-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
